@@ -6,4 +6,6 @@ author_profile: true
 <iframe src="/assets/PowerBI_supply_chain_project.pdf" width="150%" height="800px" style="border: none;"></iframe>
 
 
-"assets/images/excel project.jpg"
+# Excel Project
+
+"/assets/images/excel-project.jpg"
