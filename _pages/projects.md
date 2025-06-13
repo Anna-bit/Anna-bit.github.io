@@ -21,4 +21,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-<img src="/assets/excel-project.jpg" alt="Excel Project Screenshot" width="150%" />
+<p align="center">
+  <img src="/assets/excel-project.jpg" alt="Excel Project" style="width: 90%; max-width: 900px;" />
+</p>
