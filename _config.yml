@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Anne Musau"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile pict.jpg"
   bio    : "A data analyst skilled in Excel, SQL, Power BI, and Python - currently expanding into software quality assurance with a strong focus on detail and continuous learning."
   links:
     - label: "Website"
