@@ -8,4 +8,4 @@ author_profile: true
 
 # Excel Project
 
-"/images/excel-project.jpg"
+"images/excel-project.jpg"
