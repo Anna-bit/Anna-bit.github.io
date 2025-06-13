@@ -4,4 +4,4 @@ permalink: /projects/
 author_profile: true
 ---
 
- Project Title : "assets/Power BI supply chain project.pdf"
+ "assets/images/Power BI supply chain project.pdf"
