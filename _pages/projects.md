@@ -14,4 +14,11 @@ author_profile: true
 
 ![Excel Project](/assets/excel-project.jpg)
 
-<img src="/assets/excel-project.jpg" alt="Excel Project Screenshot" width="100%" style="max-width: 1000px; border-radius: 8px;"/>
+
+---
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+<img src="/assets/excel-project.jpg" alt="Excel Project Screenshot" width="150%" />
