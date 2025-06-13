@@ -1,6 +1,5 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
+title: "Resume"
 permalink: /resume/
 layout: tags
 author_profile: true
