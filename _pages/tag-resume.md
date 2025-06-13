@@ -55,16 +55,6 @@ Results-driven professional with experience in customer data handling, complianc
 
 ## 💼 Professional Experience
 
-### **Data Analyst**  
-**SpaceyaTech – Nairobi, Kenya**  
-*June 2025 – Present*  
-- Cleaned and transformed raw datasets, ensuring high data quality and consistency  
-- Performed EDA to identify patterns, correlations, and outliers  
-- Developed dashboards to communicate insights to both technical and non-technical audiences  
-- Applied data anonymization (masking & pseudonymization) to protect sensitive datasets  
-
----
-
 ### **Customer Experience Executive**  
 **Absa Bank Kenya PLC – Nairobi, Kenya**  
 *Sep 2022 – June 2024*  
