@@ -58,11 +58,11 @@ plugins:
 author:
   name   : "Anne Musau"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A data analyst skilled in excel, SQL, Power BI and python."
+  bio    : "A data analyst skilled in Excel, SQL, Power BI, and Python - currently expanding into software quality assurance with a strong focus on detail and continuous learning."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://dev.to/anna_m"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/Dida112022"
