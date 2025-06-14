@@ -4,7 +4,7 @@ permalink: /resume/
 author_profile: true
 ---
 # Anne Musau  
-**Data Protection | QA | Data analyst**  
+**Data Protection @ CyberShujaa | QA | Data analysis**  
 📍 Nairobi, Kenya  
 📧 amusau8@gmail.com  
 📱 (+254) 0714258948  
@@ -14,7 +14,7 @@ author_profile: true
 
 ## 🎓 Education
 
-**Data Protection Officer**  
+**Data Protection & Compliance**  
 Cyber Shujaa Program – Nairobi, Kenya  
 *April 2025 – June 2025*
 
