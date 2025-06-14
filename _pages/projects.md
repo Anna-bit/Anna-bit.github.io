@@ -22,5 +22,5 @@ author_profile: true
 ---
 
 <p align="center">
-  <img src="/assets/excel-project.jpg" alt="Excel Project" style="width: 90%; max-width: 900px;" />
+  <img src="/assets/excel-project.jpg" alt="Excel Project" style="width: 150%; max-width: 900px;" />
 </p>
