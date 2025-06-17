@@ -16,7 +16,7 @@
 title: Ms
 email: amusau4@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  QA Specialist | Data Analysis Student @Datacamp
+  Data Analyst Specialist | Data Analysis Student @Datacamp
 twitter_username: "@Dida112022"
 github_username: Anna-bit
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Anne Musau"
   avatar : "assets/images/profile pict.jpg"
-  bio    : "A data analyst skilled in Excel, SQL, Power BI, and Python - currently expanding into software quality assurance with a strong focus on detail and continuous learning."
+  bio    : "A data analyst skilled in Excel, SQL, Power BI, and Python - currently upskilling with a strong focus on detail and continuous learning."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
