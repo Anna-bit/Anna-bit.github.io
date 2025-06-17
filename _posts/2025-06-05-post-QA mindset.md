@@ -1,5 +1,5 @@
 ---
-title: "Post: QA mindset"
+title: "Post: DA mindset"
 categories:
   - Blog
 tags:
